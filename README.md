@@ -3,6 +3,6 @@ puk description
 3321
 puk changes ffsas
 u
-zalupa...
+zalupa...1
 333
 123
